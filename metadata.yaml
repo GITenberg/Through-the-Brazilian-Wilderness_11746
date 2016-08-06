@@ -1,0 +1,38 @@
+_repo: Through-the-Brazilian-Wilderness_11746
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roosevelt, Theodore
+    aliases:
+    - United States President (1901-1909)
+    - Roosevelt, Teddy
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
+description: In 1914, with the well-wishes of the Brazilian government, Theodore Roosevelt,
+  ex-president of the United States; his son, Kermit; and Colonel Rondon travel to
+  South America on a quest to course the River of Doubt. While in Brazil, Theodore
+  is also tasked with a?zoogeographic reconnaissance" of the local wilderness for
+  the archives of the Natural History Museum of New York. In addition to the perils
+  of the incredibly difficult and dangerous terrain, the river was nicknamed?The River
+  of Death" as a testament to its ferocious rapids. Covering a previously undocumented
+  area of South Americ.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11746'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2501'
+- !lcsh 'Roosevelt River (Brazil)'
+- !lcsh 'Roosevelt-Rondon Scientific Expedition (1913-1914)'
+- !lcsh 'Brazil -- Description and travel'
+- !lcsh 'Zoology -- Brazil'
+- GITenberg
+title: Through the Brazilian Wilderness
+url: http://www.gutenberg.org/ebooks/11746
